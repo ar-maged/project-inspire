@@ -1,1 +1,3 @@
-# project-inspire
+# Project Inspire
+
+Inspire the world.
