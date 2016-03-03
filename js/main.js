@@ -1,5 +1,4 @@
 $(document).ready(function() {
-
   // Animate "Click something."
   $('h2').typeIt();
 
@@ -9,9 +8,9 @@ $(document).ready(function() {
     if (index === 0)
       $('h1').css("font-size", "50px");
 
-    // Update background colour
-    $("body").css({
-      "background-color": colours[index]
+    // Update background colour with animation
+    $('body').animate({
+      backgroundColor: colours[index]
     });
 
     if (index === colours.length - 1)
