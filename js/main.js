@@ -62,14 +62,8 @@ var quotesArray =
     "author": "Amelia Earhart",
     "text": "The most difficult thing is the decision to act, the rest is merely tenacity."
   }, {
-    "author": "Babe Ruth",
-    "text": "Every strike brings me closer to the next home run."
-  }, {
     "author": "W. Clement Stone",
     "text": "Definiteness of purpose is the starting point of all achievement."
-  }, {
-    "author": "Kevin Kruse",
-    "text": "We must balance conspicuous consumption with conscious capitalism."
   }, {
     "author": "John Lennon",
     "text": "Life is what happens to you while you’re busy making other plans."
@@ -83,17 +77,11 @@ var quotesArray =
     "author": "Alice Walker",
     "text": "The most common way people give up their power is by thinking they don’t have any."
   }, {
-    "author": "Buddha",
-    "text": "The mind is everything. What you think you become."
-  }, {
     "author": "Chinese Proverb",
     "text": "The best time to plant a tree was 20 years ago. The second best time is now."
   }, {
     "author": "Socrates",
     "text": "An unexamined life is not worth living."
-  }, {
-    "author": "Woody Allen",
-    "text": "Eighty percent of success is showing up."
   }, {
     "author": "Steve Jobs",
     "text": "Your time is limited, so don’t waste it living someone else’s life."
@@ -135,13 +123,10 @@ var quotesArray =
     "text": "Life shrinks or expands in proportion to one’s courage."
   }, {
     "author": "Vincent Van Gogh",
-    "text": "If you hear a voice within you say “you cannot paint,” then by all means paint and that voice will be silenced."
+    "text": "If you hear a voice within you say “you cannot paint,” then by all means paint, and that voice will be silenced."
   }, {
     "author": "Aristotle",
     "text": "There is only one way to avoid criticism: do nothing, say nothing, and be nothing."
-  }, {
-    "author": "Jesus",
-    "text": "Ask and it will be given to you; search, and you will find; knock and the door will be opened for you."
   }, {
     "author": "Ralph Waldo Emerson",
     "text": "The only person you are destined to become is the person you decide to be."
@@ -185,20 +170,11 @@ var quotesArray =
     "author": "Anne Frank",
     "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world."
   }, {
-    "author": "Lao Tzu",
-    "text": "When I let go of what I am, I become what I might be."
-  }, {
-    "author": "Maya Angelou",
-    "text": "Life is not measured by the number of breaths we take, but by the moments that take our breath away."
-  }, {
     "author": "Dalai Lama",
     "text": "Happiness is not something readymade.  It comes from your own actions."
   }, {
     "author": "Sheryl Sandberg",
     "text": "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on."
-  }, {
-    "author": "Latin Proverb",
-    "text": "If the wind will not serve, take to the oars."
   }, {
     "author": "Unknown",
     "text": "You can’t fall if you don’t climb. But there’s no joy in living your whole life on the ground."
@@ -221,9 +197,6 @@ var quotesArray =
     "author": "Jamie Paolinetti",
     "text": "Limitations live only in our minds. But if we use our imaginations, our possibilities become limitless."
   }, {
-    "author": "Erica Jong",
-    "text": "You take your life in your own hands, and what happens? A terrible thing, no one to blame."
-  }, {
     "author": "Bob Dylan",
     "text": "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do."
   }, {
@@ -238,15 +211,6 @@ var quotesArray =
   }, {
     "author": "Chinese Proverb",
     "text": "The person who says it cannot be done should not interrupt the person who is doing it."
-  }, {
-    "author": "Roger Staubach",
-    "text": "There are no traffic jams along the extra mile."
-  }, {
-    "author": "George Eliot",
-    "text": "It is never too late to be what you might have been."
-  }, {
-    "author": "Oprah Winfrey",
-    "text": "You become what you believe."
   }, {
     "author": "Vincent van Gogh",
     "text": "I would rather die of passion than of boredom."
@@ -266,7 +230,7 @@ var quotesArray =
     "author": "Jesse Owens",
     "text": "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at."
   }, {
-    "author": "Sir Claus Moser",
+    "author": "Claus Moser",
     "text": "Education costs money. But then so does ignorance."
   }, {
     "author": "Rosa Parks",
@@ -334,4 +298,40 @@ var quotesArray =
   }, {
     "author": "Zig Ziglar",
     "text": "If you can dream it, you can achieve it."
+  }, {
+    "author": "James Burgh",
+    "text": "In disputes upon moral or scientific points, ever let your aim be to come at truth, not to conquer your opponent."
+  }, {
+    "author": "Conrad Hilton",
+    "text": "Achievement seems to be connected with action. Successful men and women keep moving. They make mistakes but they don’t quit."
+  }, {
+    "author": "Maxi Foreman",
+    "text": "Ambition is the steam that drives men forward on the road to success. Only the engine under full steam can make the grade."
+  }, {
+    "author": "Dennis Waitley",
+    "text": "Continuous learning is the minimum requirement for success in any field."
+  }, {
+    "author": "Henry Ford",
+    "text": "Enthusiasm is the sparkle in your eyes, the swing in your gait, the grip of your hand and the irresistible surge of will and energy to execute your ideas."
+  }, {
+    "author": "Pearl Buck",
+    "text": "The secret of joy in work is contained in one word: excellence. To know how to do something well is to enjoy it."
+  }, {
+    "author": "Yoda",
+    "text": "Do. Or do not. There is no try."
+  }, {
+    "author": "Guy Kawasaki",
+    "text": "Ideas are easy. Implementation is hard."
+  }, {
+    "author": "Larry Page",
+    "text": "Always deliver more than expected."
+  }, {
+    "author": "Biz Stone",
+    "text": "Timing, perseverance, and ten years of trying will eventually make you look like an overnight success."
+  }, {
+    "author": "Malcolm Forbes",
+    "text": "When you cease to dream you cease to live."
+  }, {
+    "author": "George Patton",
+    "text": "Success is how high you bounce after you hit bottom."
   }]
