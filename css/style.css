@@ -7,6 +7,12 @@ body {
   background: #057; /* Initial background colour */
   color: white;
   font-family: serif;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 h1 {
   font-size: 75px; /* font-size: 50px after 1st click */
@@ -15,14 +21,7 @@ h1 {
 h2 {
   font-size: 30px;
   padding-top: 100px;
-}
-.unselectable {
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+  display: inline-block;
 }
 @media (max-width: 500px) {
   h1 {
