@@ -1,12 +1,12 @@
 * {
   cursor: pointer;
+  font-family: 'Lato', sans-serif;
 }
 body {
   text-align: center;
   margin: 0 auto;
   background: #057; /* Initial background colour */
   color: white;
-  font-family: serif;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
