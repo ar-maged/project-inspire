@@ -5,7 +5,7 @@ $(document).ready(function() {
   // Activate tooltipster
   $('.tooltip').tooltipster({
     offsetY: -95,
-    theme: '.tooltipster-light',
+    theme: 'tooltipster-light',
   });
 
   $(document).on('click', function() {
