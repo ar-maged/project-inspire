@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Project Inspire</h1>
-<h2 align="center">Random quotes generator</h2>
+Random quotes generator.
 
 ## Credits
 
